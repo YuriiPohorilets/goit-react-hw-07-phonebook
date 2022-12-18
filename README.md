@@ -1,4 +1,4 @@
-# Основи Redux. Бібліотека Redux Toolkit та React-Redux хуки| goit-react-hw-06-phonebook
+# Асинхронний Redux. Селектори та бібліотека Reselect | goit-react-hw-07-phonebook
 
 ## Критерії приймання
 
